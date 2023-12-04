@@ -17,7 +17,9 @@ Welcome to my GitHub profile! As a recent MSc Data Sceince graduate, I specializ
 ## 💼 Skills
 
 - Programming languages: Python
+- Field of study : Data Analytics & ML
 - Frameworks and libraries: pandas, NumPy, Matplotlib, SciPy, scikit-learn
+- Tools : Advance Excel, Power BI
 - Databases: MySQL
 - Version control: Git
 
