@@ -11,7 +11,7 @@ Welcome to my GitHub profile! As a recent MSc Data Sceince graduate, I specializ
 
 - [Diwali Sales Analysis](https://github.com/rajahire10/Diwali-Sales-Analysis): Diwali Sales Analysis through EDA revealed peak sales during the festival, highlighting top-selling products and customer preferences. Insights from regional trends, promotional impact, and inventory turnover will inform strategic decisions for optimizing future sales.
 
-  - [House Price Prediction](https://github.com/rajahire10/House-Price-Prediction): House Price Prediction using Machine Learning: A predictive model that utilizes machine learning algorithms to estimate house prices based on relevant features. Includes data preprocessing, model training, and evaluation scripts in Python, showcasing the application of regression techniques for accurate price predictions.
+- [House Price Prediction](https://github.com/rajahire10/House-Price-Prediction): House Price Prediction using Machine Learning: A predictive model that utilizes machine learning algorithms to estimate house prices based on relevant features. Includes data preprocessing, model training, and evaluation scripts in Python, showcasing the application of regression techniques for accurate price predictions.
 
 ## 💼 Skills
 
